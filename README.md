@@ -1,6 +1,8 @@
 # IonReddit
 
-This is an Ionic 2 mobile application that uses the Reddit API to view subreddits by category.
+
+ a complete Ionic 2 mobile application . It's an app using the Reddit API. We can list top subreddits and filter by category. We will also have a settings area where we can set default category and limit of posts
+
 
 ### Version
 1.0.0
