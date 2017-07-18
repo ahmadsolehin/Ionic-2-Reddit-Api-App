@@ -46,5 +46,5 @@ $ ionic build android
 
 # screenshot
 
-![nn](https://user-images.githubusercontent.com/12325386/28298174-63dafe88-6ba4-11e7-82c6-a15b5977d4e7.JPG)
+![nn](https://user-images.githubusercontent.com/12325386/28298226-a9e8ba28-6ba4-11e7-9840-7c3050c25d6a.JPG)
 
